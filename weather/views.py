@@ -38,3 +38,9 @@ def index(request):
 
 
     return render(request, 'weather/weather.html', context)
+
+
+
+
+# def feeling_view(request):
+
